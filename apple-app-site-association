@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "H5CP23KHWW.ru.tabor",
+            "paths": [
+                "*"
+                ]
+            }
+        ]
+    }
+}
